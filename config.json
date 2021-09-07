@@ -1,0 +1,7 @@
+{
+    "key_binds":
+    [   
+        {"keys":"ctrl+shift+1", "pid":8016},
+        {"keys":"ctrl+shift+2", "pid": 364}
+    ]
+}
