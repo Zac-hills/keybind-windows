@@ -29,7 +29,7 @@ What if there is 3 windows that need keybinds?? All that is required is to add a
 	}
 
 # What is a PID?!
-A PID is a process identifier that windows uses as a unique id in order to keep track of programs. One can find the PID of a specific program by going to the task manager.
+A PID is a process identifier that Windows uses as a unique id in order to keep track of programs. One can find the PID of a specific program by going to the task manager.
 
 ![tempsnip](https://user-images.githubusercontent.com/25306965/132424712-388e0d7f-52da-41fb-8115-5dc20e3daa9b.png)
 
